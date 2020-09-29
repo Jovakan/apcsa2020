@@ -9,7 +9,7 @@ Unit 1: Primitive Types
 
   Assignment 1: Movie Ratings
 
-----------------------------------
+
 
 Unit 2: Using Objects
 
