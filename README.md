@@ -16,3 +16,9 @@ This answer key is divided into the units and lessons inside them. You will also
 Lessons 1-8
 
 Assignment 2: Control Tower
+
+**Unit 3: Boolean Expressions and If Statements
+
+Lessons 1-?
+
+Assignment 3: ???
