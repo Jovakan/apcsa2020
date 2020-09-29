@@ -8,7 +8,9 @@ Unit 1: Primitive Types
   Lessons 1-6
 
   Assignment 1: Movie Ratings
-  
+
+----------------------------------
+
 Unit 2: Using Objects
 
 Lessons 1-8
