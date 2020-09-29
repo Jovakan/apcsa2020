@@ -17,7 +17,7 @@ Lessons 1-8
 
 Assignment 2: Control Tower
 
-**Unit 3: Boolean Expressions and If Statements
+**Unit 3: Boolean Expressions and If Statements**
 
 Lessons 1-?
 
