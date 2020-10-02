@@ -19,6 +19,6 @@ Path format: `[Unit#]/[Lesson#]/[Unit#][Lesson#][Question#].java`
 
 [**Unit 3: Boolean Expressions and If Statements**](https://github.com/mapoztate/apcsa2020/blob/master/unit3/) (Ongoing)
 
- - Lessons 1-?
+ - Lessons 1-7
 
- - Assignment 3: ???
+ - Assignment 3: Crack the Code!
