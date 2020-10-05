@@ -6,9 +6,9 @@ class U1_L3_Activity_One {
   public static void main(String[] args) {
       
     /* Write your code here */
-    double a
-    double b
+    double a;
+    double b;
     
-    System.out.println(b + " " + a)
+    System.out.println(b + " " + a);
   }
 }

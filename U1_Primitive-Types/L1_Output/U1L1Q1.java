@@ -6,6 +6,6 @@ class U1_L1_Activity_One {
   public static void main(String[] args) {
     
     /* Write your code here */
-      System.out.print(" LeBron James ");
+    System.out.print(" LeBron James ");
   }
 }
