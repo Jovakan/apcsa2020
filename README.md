@@ -17,7 +17,7 @@ Path format: `[Unit#]/[Lesson#]/[Unit#][Lesson#][Question#].java`
 
  - [Assignment 2: Control Tower](https://github.com/mapoztate/apcsa2020/blob/master/unit1/U2_Assignment.java)
 
-[**Unit 3: Boolean Expressions and If Statements**](https://github.com/mapoztate/apcsa2020/blob/master/unit3/) (Ongoing)
+[**Unit 3: Boolean Expressions and If Statements**](https://github.com/mapoztate/apcsa2020/blob/master/unit3/)
 
  - Lessons 1-7
 
