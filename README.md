@@ -21,4 +21,4 @@ Path format: `[Unit#]/[Lesson#]/[Unit#][Lesson#][Question#].java`
 
  - Lessons 1-7
 
- - Assignment 3: Crack the Code!
+ - [Assignment 3: Crack the Code!](https://github.com/mapoztate/apcsa2020/blob/master/unit3/U3_Assignment.java)
