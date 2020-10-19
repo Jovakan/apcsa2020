@@ -22,3 +22,9 @@ Path format: `[Unit#]/[Lesson#]/[Unit#][Lesson#][Question#].java`
  - Lessons 1-7
 
  - [Assignment 3: Crack the Code!](https://github.com/mapoztate/apcsa2020/blob/master/unit3/U3_Assignment.java)
+ 
+ [**Unit 4: Iteration**](https://github.com/mapoztate/apcsa2020/blob/master/unit4/) (Ongoing)
+
+ - Lessons 1-6
+ 
+ - Assignment 4: String Shortener
