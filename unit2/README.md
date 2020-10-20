@@ -1,4 +1,4 @@
-# Unit 2 - Using Objects
+# Unit 2: Using Objects
 
 This unit introduces the use of classes, methods and objects.
 
