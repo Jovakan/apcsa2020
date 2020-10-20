@@ -1,4 +1,4 @@
-# Unit 3 - Boolean Expressions and If Statements
+# Unit 3: Boolean Expressions and If Statements
 
 This unit introduces the concepts that programs use to make decisions using the logic of Boolean expressions, If and Else statements.
 
@@ -30,7 +30,7 @@ This unit introduces the concepts that programs use to make decisions using the 
  * Students will evaluate the output from a code segment containing multiple conditionals (Skill 2.B). Assignment
  
  ## Assignment
- * [Assignment 3 - Crack the Code!:](https://github.com/mapoztate/apcsa2020/blob/master/unit3/U3_Assignment.java) Students will write nested decision statements to control the flow of a program, determining which conditions are checked at which points in the program to produce the correct output (Skill 2.B).
+ * [Assignment 3: Crack the Code!:](https://github.com/mapoztate/apcsa2020/blob/master/unit3/U3_Assignment.java) Students will write nested decision statements to control the flow of a program, determining which conditions are checked at which points in the program to produce the correct output (Skill 2.B).
  
  ## Assessments
  * Unit 3 Quiz
