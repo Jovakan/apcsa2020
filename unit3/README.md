@@ -27,7 +27,7 @@ This unit introduces the concepts that programs use to make decisions using the 
  * Students will write code with multiple conditional statements to produce a desired output (Skill 3.C).
  * Students will describe the details of how a particular statement will be evaluated in a Java program (Skill 5.A).
  * Students will identify equivalent Boolean statements (Skill 4.C).
- * Students will evaluate the output from a code segment containing multiple conditionals (Skill 2.B). Assignment
+ * Students will evaluate the output from a code segment containing multiple conditionals (Skill 2.B).
  
  ## Assignment
  * [Assignment 3: Crack the Code!:](https://github.com/mapoztate/apcsa2020/blob/master/unit3/U3_Assignment.java) Students will write nested decision statements to control the flow of a program, determining which conditions are checked at which points in the program to produce the correct output (Skill 2.B).
