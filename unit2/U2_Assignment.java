@@ -1,3 +1,6 @@
+/* OMIT THIS WHEN DONE */
+/* PLEASE READ: EDHESIVE HAS MADE MISTAKES WITH THEIR AUTOGRADER. THE OUTPUT MATCHES, BUT YOU'LL NEED TO CONTACT YOUR TEACHER TO APPROVE IT. */
+
 /* Unit 2 - Assignment 2: Control Tower */
 /* Class name - must be "Assignment2" in order to run */
 
