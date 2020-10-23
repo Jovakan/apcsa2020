@@ -12,7 +12,7 @@ This unit introduces the idea of iteration, repeating a process until certain co
  * [Unit 4: Lesson 1 1/2 - Tracing Code:](https://github.com/mapoztate/apcsa2020/tree/master/unit4/lesson1.5) This lesson demonstrates how the results of code segments containing iterative statements can be determined by using a trace table (CON).
  * [Unit 4: Lesson 2 - Algorithms for Numbers:](https://github.com/mapoztate/apcsa2020/tree/master/unit4/lesson2) This lesson introduces standard algorithms which students can code, modify and develop using loops (CON).
  * [Unit 4: Lesson 3 - The For Loop:](https://github.com/mapoztate/apcsa2020/tree/master/unit4/lesson3) This lesson introduces the for loop, an alternative loop syntax used to repeat code (CON).
- * Unit 4: Lesson 4 - Algorithms for Strings: This lesson focuses on the creation, implementation and modification of algorithms which use String traversals (CON).
+ * [Unit 4: Lesson 4 - Algorithms for Strings:](https://github.com/mapoztate/apcsa2020/tree/master/unit4/lesson4) This lesson focuses on the creation, implementation and modification of algorithms which use String traversals (CON).
  * Unit 4: Lesson 5 - Nested Loops: In this lesson, the way in which nested iteration statements can be used is examined (CON).
  * Unit 4: Lesson 6 - Algorithm Efficiency: This lesson introduces the concept of algorithmic efficiency through the use of statement execution counts (CON).
 
