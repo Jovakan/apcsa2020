@@ -26,7 +26,7 @@ This unit introduces the idea of iteration, repeating a process until certain co
  * Students will write nested iteration statements to produce a desired output (Skill 3.C).
 
 ## Assignment
- * Assignment 4: String Shortener: Students will design a program which processes a String, determines properties of this String and prints a modified version of the String (Skill 1.A). Students must write iteration statements, decision statements, and String methods to implement this program (Skill 2.B).
+ * [Assignment 4: String Shortener:](https://github.com/mapoztate/apcsa2020/blob/master/unit4/U4_Assignment.java) Students will design a program which processes a String, determines properties of this String and prints a modified version of the String (Skill 1.A). Students must write iteration statements, decision statements, and String methods to implement this program (Skill 2.B).
 
 ## Assessments and Labs
  * Unit 4 Quiz
