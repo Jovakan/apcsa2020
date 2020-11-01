@@ -34,19 +34,19 @@ class Assignment4 {
     a0 += a.substring(i, i + 1);
     i++;
     a0 += a.substring(i, i + 1); }
+   
+   /* CHECKS IF CURRENT LETTER IS A VOWEL, THEN SAVES LAST VOWEL */
+    else if ((a.substring(i, i + 1).equals("a")) || (a.substring(i, i + 1).equals("e")) || (a.substring(i, i + 1).equals("i")) || (a.substring(i, i + 1).equals("o")) || (a.substring(i, i + 1).equals("u"))) {
+    a1++;
+    lastvow = a.substring(i, i + 1); }
     
   /* IF NOT LAST REMOVED VOWEL, REMOVES DUPLICATED LETTERS BY CHECKING PREVIOUS LETTER */
     else if(a.substring(i, i + 1).equals(a.substring (i - 1, i)) && (!a.substring(i, i + 1).equals(lastvow)))
     a3++; 
-  
-  /* CHECKS IF CURRENT LETTER IS NOT A VOWEL, THEN ADD TO NEW MESSAGE */
-    else if ((!a.substring(i, i + 1).equals("a")) && (!a.substring(i, i + 1).equals("e")) && (!a.substring(i, i + 1).equals("i")) && (!a.substring(i, i + 1).equals("o")) && (!a.substring(i, i + 1).equals("u"))) 
-      a0 += a.substring(i, i + 1); 
-    
-    else {
-    a1++;
-    lastvow = a.substring(i, i + 1); }
-}
+
+    else 
+    a0 += a.substring(i, i + 1);
+  }
     /*----------------------------*/
     a2 = a.length() - a0.length();
     
@@ -84,6 +84,5 @@ class Assignment4 {
     System.out.println("Unique characters found: " + b1);
     System.out.println("Algorithm 2 message: " + b0);
     System.out.println("Algorithm 2 characters saved: " + b2);
-  
     }
 }
