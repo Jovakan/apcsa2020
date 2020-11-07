@@ -31,4 +31,4 @@ This unit introduces the idea of iteration, repeating a process until certain co
 ## Assessments and Labs
  * Unit 4 Quiz
  * Unit 4 Exam
- * Lab: Consumer Review
+ * [Lab: Consumer Review](https://github.com/mapoztate/apcsa2020/tree/master/unit4/consumer-review)
