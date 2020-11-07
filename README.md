@@ -28,3 +28,5 @@ Path format: `[Unit#]/[Lesson#]/[Unit#][Lesson#][Question#].java`
  - Lessons 1-6
  
  - [Assignment 4: String Shortener](https://github.com/mapoztate/apcsa2020/blob/master/unit4/U4_Assignment.java)
+ 
+ - [Lab: Consumer Review](https://github.com/mapoztate/apcsa2020/tree/master/unit4/consumer-review)
