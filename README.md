@@ -24,10 +24,16 @@ Path format: `[Unit#]/[Lesson#]/[Unit#][Lesson#][Question#].java`
 
  - [Assignment 3: Crack the Code!](https://github.com/mapoztate/apcsa2020/blob/master/unit3/U3_Assignment.java)
  
- [**Unit 4: Iteration**](https://github.com/mapoztate/apcsa2020/blob/master/unit4/)
+[**Unit 4: Iteration**](https://github.com/mapoztate/apcsa2020/blob/master/unit4/)
 
  - Lessons 1-6
  
  - [Assignment 4: String Shortener](https://github.com/mapoztate/apcsa2020/blob/master/unit4/U4_Assignment.java)
  
  - [Lab: Consumer Review](https://github.com/mapoztate/apcsa2020/tree/master/unit4/consumer-review)
+
+[**Unit 5: Writing Classes**](https://github.com/mapoztate/apcsa2020/blob/master/unit5/)
+
+- Lessons 1-9
+
+- Assignment 5: Fraction
