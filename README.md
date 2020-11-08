@@ -37,3 +37,39 @@ Path format: `[Unit#]/[Lesson#]/[Unit#][Lesson#][Question#].java`
 - Lessons 1-9
 
 - [Assignment 5: Fraction](https://github.com/mapoztate/apcsa2020/blob/master/unit5/U5_Assignment.java)
+
+[**Unit 6: Array**](https://github.com/mapoztate/apcsa2020/blob/master/unit6/)
+
+- Lessons 1-5
+
+- [Assignment 6: Array Statistics](https://github.com/mapoztate/apcsa2020/blob/master/unit6/U6_Assignment.java)
+
+[**Unit 7: ArrayList**](https://github.com/mapoztate/apcsa2020/blob/master/unit7/)
+
+- Lessons 1-7
+
+- [Assignment 7: Game Wheel](https://github.com/mapoztate/apcsa2020/blob/master/unit7/U7_Assignment.java)
+
+- Lab: Data Lab
+
+[**Unit 8: 2-D Arrays**](https://github.com/mapoztate/apcsa2020/blob/master/unit8/)
+
+- Lessons 1-2
+
+- [Assignment 8: Battleship](https://github.com/mapoztate/apcsa2020/blob/master/unit8/U8_Assignment.java)
+
+- Lab: Steganography
+
+[**Unit 9: Inheritance**](https://github.com/mapoztate/apcsa2020/blob/master/unit9/)
+
+- Lessons 1-3
+
+- [Assignment 9: Fraction](https://github.com/mapoztate/apcsa2020/blob/master/unit9/U9_Assignment.java)
+
+- Lab: Celebrity
+
+[**Unit 10: Recursion**](https://github.com/mapoztate/apcsa2020/blob/master/unit10/)
+
+- Lessons 1-4
+
+- [Assignment 10: Anagrams](https://github.com/mapoztate/apcsa2020/blob/master/unit10/U10_Assignment.java)
