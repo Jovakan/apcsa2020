@@ -30,7 +30,7 @@ This unit introduces the concepts required for students to write their own class
  * Students will create a custom class, which is used to create objects representing vehicles (Skill 3.B).
  
  ## Assignment
-  * Assignment 5: Fraction: Students will write the constructors and methods of a class designed to represent fractions (Skill 3.B). They will need to write the class methods according to strict specifications as to how the methods should behave for different values of parameters and/or member variables (Skill 3.C).
+  * [Assignment 5: Fraction:](https://github.com/mapoztate/apcsa2020/blob/master/unit5/U5_Assignment.java) Students will write the constructors and methods of a class designed to represent fractions (Skill 3.B). They will need to write the class methods according to strict specifications as to how the methods should behave for different values of parameters and/or member variables (Skill 3.C).
   
  ## Assessments
   * Unit 5 Quiz
