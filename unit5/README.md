@@ -12,7 +12,7 @@ This unit introduces the concepts required for students to write their own class
  * Static vs. Instance
  * Wider Impacts of Computing
 ## Lessons
- * Unit 5: Lesson 1 - Void methods: This lesson explains how code can be written in methods which can then be called from the main code (MOD).
+ * [Unit 5: Lesson 1](https://github.com/mapoztate/apcsa2020/tree/master/unit5/lesson1) - Void methods: This lesson explains how code can be written in methods which can then be called from the main code (MOD).
  * Unit 5: Lesson 2 - Parameters: In this lesson, students are shown how to write methods which use parameters to send information with a method call (MOD).
  * Unit 5: Lesson 3 - Parameters - Primitive vs. Class: This lesson explains how parameters of primitive and class-type data are passed to methods when they are called (MOD).
  * Unit 5: Lesson 4 - Return Methods: This lesson introduces the use of return statements to allow methods to send information back when they are called (MOD).
