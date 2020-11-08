@@ -64,7 +64,7 @@ Path format: `[Unit#]/[Lesson#]/[Unit#][Lesson#][Question#].java`
 
 - Lessons 1-3
 
-- [Assignment 9: Fraction](https://github.com/mapoztate/apcsa2020/blob/master/unit9/U9_Assignment.java)
+- [Assignment 9: Ultimate Frisbee](https://github.com/mapoztate/apcsa2020/blob/master/unit9/U9_Assignment.java)
 
 - Lab: Celebrity
 
