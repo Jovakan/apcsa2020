@@ -15,7 +15,7 @@ This unit introduces the concepts required for students to write their own class
  * [Unit 5: Lesson 1 - Void methods:](https://github.com/mapoztate/apcsa2020/tree/master/unit5/lesson1) This lesson explains how code can be written in methods which can then be called from the main code (MOD).
  * [Unit 5: Lesson 2 - Parameters:](https://github.com/mapoztate/apcsa2020/tree/master/unit5/lesson2) In this lesson, students are shown how to write methods which use parameters to send information with a method call (MOD).
  * [Unit 5: Lesson 3 - Parameters - Primitive vs. Class:](https://github.com/mapoztate/apcsa2020/tree/master/unit5/lesson3) This lesson explains how parameters of primitive and class-type data are passed to methods when they are called (MOD).
- * Unit 5: Lesson 4 - Return Methods: This lesson introduces the use of return statements to allow methods to send information back when they are called (MOD).
+ * [Unit 5: Lesson 4 - Return Methods:](https://github.com/mapoztate/apcsa2020/tree/master/unit5/lesson4) This lesson introduces the use of return statements to allow methods to send information back when they are called (MOD).
  * Unit 5: Lesson 5 - Classes - The Basics: Through this lesson, students are introduced to the basics of custom class creation, including writing constructors and instance methods/variables (MOD).
  * Unit 5: Lesson 6 - Constructors: This lesson shows in greater depth how constructors can be written to set the initial state of an object, and explains how formal parameters and local variables differ from global variables in scope (MOD, VAR).
  * Unit 5: Lesson 7 - Documenting a Class: In this lesson students learn how to write comments to document a class, including using preconditions and postconditions (MOD).
