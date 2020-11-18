@@ -12,4 +12,4 @@
 
 If you want some inspiration, my program calculates the overall grade of someone’s class by taking each one of the student’s assignment scores, the total of the assignment, and computing that to one final percentage and letter grade. However, my program does not take into account assignments that are weighted more than others.
 
-To look at the logic and specifics of how I wrote each line, feel free to look through the responses file and see my thought process. 
+To look at the logic and specifics of how I wrote each line, feel free to look through the [responses file](https://github.com/mapoztate/apcsa2020/blob/master/unit4/consumer-review/activity5/RESPONSES.md) and see my thought process. 
