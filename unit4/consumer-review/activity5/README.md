@@ -1,4 +1,4 @@
-##### In this activity, you have the opportunity to create your own program, following these certain criteria. That means there is no definite answer to this activity and is up to you on how to solve it.
+#### In this activity, you have the opportunity to create your own program, following these certain criteria. That means there is no definite answer to this activity and is up to you on how to solve it.
 
 * Write a program with a main method 
 
