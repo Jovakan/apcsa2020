@@ -2,11 +2,11 @@ import java.util.Scanner;
 
 public class Review {
   private static String teacher;
-	private static String theClass;
+  private static String theClass;
   private static double percentage;
   private double min;
   private double max;
-	private double overallMin;
+  private double overallMin;
   private double overallMax;
   private static double repMin;
   private static double repMax;
@@ -69,9 +69,9 @@ public static void main(String[] args)
         
         String command = "";
         double runMin = 0;
-				double runMax = 0;
-				double min1 = 0;
-				double max1 = 0;
+	double runMax = 0;
+	double min1 = 0;
+	double max1 = 0;
 
         System.out.println("Please enter your teacher's name.");
         String runTeacher = scan.nextLine();
@@ -85,15 +85,15 @@ public static void main(String[] args)
             runMin = scan.nextDouble();
             System.out.println("Enter maximum score");
             runMax = scan.nextDouble();
-						Review a = new Review(runMin, runMax);
-						min1 += a.returnMin();
-						max1 += a.returnMax();
-					}
+	    Review a = new Review(runMin, runMax);
+	    min1 += a.returnMin();
+	    max1 += a.returnMax();
+}
           else if(command.equals("q")) {
             run = false;
           }
 
-        }
+      }
         Review a = new Review(runMin, runMax);
         System.out.println("\n" + a.toString(min1, max1, runTeacher, runClass));
     
@@ -104,39 +104,38 @@ public static void main(String[] args)
     } 
 }
 
-/*Alternate algorithms written for various methods to answer questions.
+/*Alternate algorithms writen for various methods to answer questions.
 
 public String calcLetter() {
 	if(percentage < 60)
-		return "F";
+	 return "F";
 	
 	if(percentage < 63)
-		return "D-";
+	 return "D-";
 	else if(percentage < 67)
-		return "D";
+	 return "D";
 	else if(percentage < 70)
-		return "D+";
+	 return "D+";
 	
 	if(percentage < 73)
-		return "C-";
+	 return "C-";
 	else if(percentage < 77)
-		return "C";
+	 return "C";
 	else if(percentage < 80)
-		return "C+";
+	 return "C+";
 
 	if(percentage < 83)
-		return "B-";
+	 return "B-";
 	else if(percentage < 87)
-		return "B";
+	 return "B";
 	else if(percentage < 90)
-		return "B+";
+	 return "B+";
 
 	if(percentage < 93)
-		return "A-";
+	 return "A-";
 	else if(percentage < 97)
-		return "A";
+	 return "A";
 	else
-		return "A+";
+	 return "A+";
 } 
-
 */
