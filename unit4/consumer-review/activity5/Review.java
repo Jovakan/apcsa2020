@@ -13,8 +13,8 @@ public class Review {
   private String letterGrade;
 
 public Review(Double min, Double max) {
-overallMin = min;
-overallMax = max;
+ overallMin = min;
+ overallMax = max;
 }
 
 public String calcLetter() {
