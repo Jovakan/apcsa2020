@@ -92,7 +92,6 @@ public static void main(String[] args)
           else if(command.equals("q")) {
             run = false;
           }
-
       }
         Review a = new Review(runMin, runMax);
         System.out.println("\n" + a.toString(min1, max1, runTeacher, runClass));
