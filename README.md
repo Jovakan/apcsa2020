@@ -36,7 +36,7 @@ Path format: `[Unit#]/[Lesson#]/[Unit#][Lesson#][Question#].java`
 
 - Lessons 1-9
 
-- [Assignment 5: Fraction](https://github.com/mapoztate/apcsa2020/blob/master/unit5/U5_Assignment.java)
+- [Assignment 5: Fraction](https://github.com/mapoztate/apcsa2020/tree/master/unit5/U5_Assignment)
 
 [**Unit 6: Array**](https://github.com/mapoztate/apcsa2020/blob/master/unit6/)
 
