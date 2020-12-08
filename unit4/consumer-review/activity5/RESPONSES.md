@@ -6,7 +6,7 @@ I chose to implement this program as it would be an easy to conceptualize projec
 ### Describe the development process used in the completion of the project. 
 
 
-Although we originally used repl.it to write our code due to the convenience of group collaboration, we had to switch to Edhesive as we ran into complications running the program. However, Edhesive had only limited us to one file so we had to write our Main method alongside the rest of the methods all in one class. 
+Although we originally used [repl.it](https://repl.it/@mapoztate/apcsa2020#.replit) to write our code due to the convenience of group collaboration, we had to switch to Edhesive as we ran into complications running the program. However, Edhesive had only limited us to one file so we had to write our Main method alongside the rest of the methods all in one class. 
 
 We started off by abstracting our program. This allowed us to figure out what variables were needed in both the main method and the class to make sure that the main method would do in order to work properly as well as what libraries we would need to import for our project to run properly. In places where a method that was unwritten would go, the specific line would be commented with its function that we can later replace after we finish writing the whole project. Once the backbone of the project was completed, we conceptualized additional methods that would add more utility to the program as well as ensuring that our program satisfied the project guidelines.
 
