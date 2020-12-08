@@ -18,9 +18,9 @@ This unit introduces the concepts required for students to write their own class
  * [Unit 5: Lesson 4 - Return Methods:](https://github.com/mapoztate/apcsa2020/tree/master/unit5/lesson4) This lesson introduces the use of return statements to allow methods to send information back when they are called (MOD).
  * [Unit 5: Lesson 5 - Classes - The Basics:](https://github.com/mapoztate/apcsa2020/tree/master/unit5/lesson5) Through this lesson, students are introduced to the basics of custom class creation, including writing constructors and instance methods/variables (MOD).
  * [Unit 5: Lesson 6 - Constructors:](https://github.com/mapoztate/apcsa2020/tree/master/unit5/lesson6) This lesson shows in greater depth how constructors can be written to set the initial state of an object, and explains how formal parameters and local variables differ from global variables in scope (MOD, VAR).
- * Unit 5: Lesson 7 - Documenting a Class: In this lesson students learn how to write comments to document a class, including using preconditions and postconditions (MOD).
- * Unit 5: Lesson 8 - Static Vs. Instance: This lesson covers the static modifier which can be used to associate variables or methods to a class rather than with an object (MOD).
- * Unit 5: Lesson 9 - Wider Impacts of Computing: For this lesson, students must conduct research into aspects of the ethical and social implications of computing systems (IOC).
+ * [Unit 5: Lesson 7 - Documenting a Class:](https://github.com/mapoztate/apcsa2020/tree/master/unit5/lesson7) In this lesson students learn how to write comments to document a class, including using preconditions and postconditions (MOD).
+ * [Unit 5: Lesson 8 - Static Vs. Instance:](https://github.com/mapoztate/apcsa2020/tree/master/unit5/lesson8) This lesson covers the static modifier which can be used to associate variables or methods to a class rather than with an object (MOD).
+ * [Unit 5: Lesson 9 - Wider Impacts of Computing:](https://github.com/mapoztate/apcsa2020/tree/master/unit5/lesson9) For this lesson, students must conduct research into aspects of the ethical and social implications of computing systems (IOC).
 
 **This unit’s lessons include the following activities that reinforce the course’s computational thinking practices:**
  * Students will determine what is printed by a method that uses selection (Skill 2.B).
