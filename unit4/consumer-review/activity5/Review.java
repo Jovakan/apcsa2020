@@ -13,8 +13,8 @@ public class Review {
   private String letterGrade;
 
 public Review(Double min, Double max) {
- overallMin = min;
- overallMax = max;
+  overallMin = min;
+  overallMax = max;
 }
 
 public String calcLetter() {
@@ -69,9 +69,9 @@ public static void main(String[] args)
         
         String command = "";
         double runMin = 0;
-	double runMax = 0;
-	double min1 = 0;
-	double max1 = 0;
+	      double runMax = 0;
+	      double min1 = 0;
+	      double max1 = 0;
 
         System.out.println("Please enter your teacher's name.");
         String runTeacher = scan.nextLine();
@@ -85,9 +85,9 @@ public static void main(String[] args)
             runMin = scan.nextDouble();
             System.out.println("Enter maximum score");
             runMax = scan.nextDouble();
-	    Review a = new Review(runMin, runMax);
-	    min1 += a.returnMin();
-	    max1 += a.returnMax();
+	          Review a = new Review(runMin, runMax);
+	          min1 += a.returnMin();
+	          max1 += a.returnMax();
 }
           else if(command.equals("q")) {
             run = false;
@@ -137,4 +137,21 @@ public String calcLetter() {
 	else
 	 return "A+";
 } 
+
+for (int i = 999; i > 0; i--) {
+  System.out.println("\nType \"Add\" to add an assignment, type \"Q\" to know your final grade");
+  command = scan.nextLine().toLowerCase();
+  if(command.equals("add")) {
+    System.out.println("Enter your score");
+    runMin = scan.nextDouble();
+    System.out.println("Enter maximum score");
+    runMax = scan.nextDouble();
+	  Review a = new Review(runMin, runMax);
+	  min1 += a.returnMin();
+	  max1 += a.returnMax();
+}
+  else if(command.equals("q")) {
+    i = 0;
+          }
+      } 
 */
