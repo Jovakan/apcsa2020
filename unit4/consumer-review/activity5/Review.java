@@ -103,7 +103,7 @@ public static void main(String[] args)
     } 
 }
 
-/*Alternate algorithms writen for various methods to answer questions.
+/*Alternate algorithms written for various methods to answer questions.
 
 public String calcLetter() {
 	if(percentage < 60)
