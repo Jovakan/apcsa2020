@@ -121,14 +121,13 @@ while(run) {
          System.out.println("Type \"Add\" to add an assignment, type \"Q\" to know your final grade");
          command = scan.nextLine().toLowerCase();
          if(command.equals("add")) {
-          
            System.out.println("Enter your score");
            runMin = scan.nextDouble();
            System.out.println("Enter maximum score");
            runMax = scan.nextDouble();
-            Review a = new Review(runMin, runMax);
-            min1 += a.returnMin();
-            max1 += a.returnMax();
+           Review a = new Review(runMin, runMax);
+           min1 += a.returnMin();
+           max1 += a.returnMax();
           }
          else if(command.equals("q")) {
            run = false;
@@ -146,9 +145,9 @@ for (int i = 999; i > 0; i--) {
            runMin = scan.nextDouble();
            System.out.println("Enter maximum score");
            runMax = scan.nextDouble();
-            Review a = new Review(runMin, runMax);
-            min1 += a.returnMin();
-            max1 += a.returnMax();
+           Review a = new Review(runMin, runMax);
+           min1 += a.returnMin();
+           max1 += a.returnMax();
 }
          else if(command.equals("q")) {
            i = 0;
