@@ -1,98 +1,128 @@
 public class Fraction
 {
-  /* Implement your Fraction class here */
-  
+  //nerd variables
   private int numerator;
-  private int denominator;
-  private static int numFractions;
+  private int denominator; 
+  private int fracnums;
+  private static int calkers=0;
   
-  //creates a 1/1 fraction
-  public  Fraction() {
-    numerator = 1;
-    denominator = 1;
-    numFractions++;
-  }
-  
-  //creates a fraction based on user input
-  public Fraction(int n, int d) {
-      this();
-      setNumerator(n);
+  //constructors
+  public Fraction(){
+    calkers++;
+    numerator=1;
+    denominator=1;
+    fracnums=calkers;
     
-      setDenominator(d);
   }
   
-  //gets the current numerator
-  public int getNumerator() {
-    if(numerator < 0)
-    numerator = 1;
-    return numerator; 
+  public Fraction(int n, int d){
+    calkers++;
+    
+    if(n>0){
+      numerator=n;
+    } else {
+      numerator=1;
+    }
+    
+    if(d>0){
+      denominator=d;
+    } else {
+      denominator=1;
+    }
+    
+    fracnums=calkers;
+    
   }
   
-  //gets the current denominator
-  public int getDenominator() {
-    if(denominator < 0)
-    denominator = 1;
+  
+  
+  //Accessors
+  public int getNumerator(){
+    return numerator;
+  }
+  
+  public int getDenominator(){
     return denominator;
+  }
+  
+  public static int getNumFractions(){
+    return calkers;
+  }
+  
+  public String toString(){
+    return numerator+"/"+denominator;
+  }
+  
+  public String mixedNumber(){
+    
+    int modus;
+    int forker;
+    
+      forker=numerator/denominator;
+      modus=numerator%denominator;
+    
+    
+    if(forker>0 && modus>0){
+      return forker+" "+modus+"/"+denominator; 
+      
+    } else if(forker==0){
+      return ""+modus+"/"+denominator;
+    } else if(modus==0){
+      return ""+forker; 
+    }
+    return null;
+  }
+  
+  
+  
+  
+  //Mutators
+  public void setNumerator(int n){
+    if(n>0){
+      numerator=n;
+    }
   } 
   
-  //returns how many fractions that are created
-  public static int getNumFractions() {
-    return numFractions;
-  }
-  
-  //prints the fraction as a string, numerator over denominator, 1/1
-  public String toString() {
-    return numerator + "/" + denominator;
-  }
-  
-  //*****
-  public String mixedNumber() {
-   //counts the whole number part of the fraction
-   if (numerator/denominator<1) {
-      return toString();
-    }
-    else if(numerator%denominator == 0)  {
-      return "" + numerator/denominator;
-    }
-    else {
-    return numerator / denominator + " " + numerator % denominator + "/" + denominator;
-    }
-  }
-
-  //replaces the numerator
-  public void setNumerator(int n) {
-    if(n > 0)
-    numerator = n;
-  }
-  
-  //replaces the denominator
-  public void setDenominator(int d) {
-    if(d > 0) 
-    denominator = d;
-  }
-  
-  //adds a fraction to the create one
-  public void add(int n, int d) {
-    if(n > 0 && d > 0) {
-      numerator = (numerator*d + denominator*n);
-      denominator = denominator*d;
+  public void setDenominator(int d){
+    if(d>0){
+      denominator=d;
     }
   }
   
-  //adds a fractioon to another
-  public void add(Fraction other) {
-   add(other.getNumerator(), other.getDenominator());
+  public void add(int n, int d){
+    
+    if(n>0 && d>0){
+      numerator = numerator*d+n*denominator;
+      denominator= denominator*d; 
+    }
   }
   
-  //multiplys fraction to another
-  public void multiply(int n, int d) {
-    if(n > 0 && d > 0) {
-    numerator = numerator * n;
-    denominator = denominator * d; }
-}
-  //multiplys fraction to another
-  public void multiply(Fraction other) {
-    numerator = numerator * other.getNumerator();
-    denominator = denominator * other.getDenominator();
+  public void add(Fraction other){
+    int upper=other.getNumerator();
+    int downer=other.getDenominator();
+    
+    if(upper>0 && downer>0){
+      numerator = numerator*downer+upper*denominator;
+      denominator = denominator*downer;  
+    }
+    
   }
+  
+  
+  public void multiply(int n, int d){
+    if(n>0 && d>0){
+      numerator=numerator*n;
+      denominator=denominator*d;
+    }
+    
+  }
+  
+  public void multiply(Fraction other){
+    if(other.getNumerator()>0 && other.getDenominator()>0){
+      numerator=numerator*other.getNumerator();
+      denominator=denominator*other.getDenominator();
+    }
+    
+  }
+  
 }
